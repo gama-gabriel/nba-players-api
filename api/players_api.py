@@ -8,7 +8,7 @@ app.json.sort_keys = False
 
 @app.route('/')
 def guia():
-    return 'Set the url to /players or /player_images to get the results'
+    return 'Set the url to /players, /player_images or /teams to get the results'
 
 @app.route('/players/', methods = ['GET'])
 @cross_origin()
