@@ -3,7 +3,7 @@ This repository contains the code for a Flask API built to provide players' stat
 \
 It applies a 100 minute mimimum threshold to the players list.
 
-To access the data, use the following endpoints [here](nba-players-api-alpha.vercel.app):\
+To access the data, use the following endpoints [here](https://nba-players-api-alpha.vercel.app/):\
 /players: access to all the players stats\
 /player_images: access to an image for each player\
 /teams: access to a logo for each team
